@@ -1,0 +1,24 @@
+{
+  "name": "nearlyEqual.js",
+  "main": "nearlyEqual.js",
+  "version": "1.0.0",
+  "authors": [
+    "Hiroaki Nakamura <hnakamur@gmail.com>"
+  ],
+  "description": "Check if two floats are almost equal",
+  "keywords": [
+    "numerical"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/hnakamur/nearlyEqual.js",
+  "ignore": [
+    "README.md",
+    "LICENSE",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "package.json",
+    "test",
+    "tests"
+  ]
+}
