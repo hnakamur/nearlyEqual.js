@@ -1,7 +1,7 @@
 {
-  "name": "nearlyEqual.js",
+  "name": "nearlyequal",
   "version": "1.0.0",
-  "description": "Comparing two floating-point numbers",
+  "description": "Check if two floating-point numbers are almost equal",
   "main": "nearlyEqual.js",
   "directories": {
     "test": "test"
