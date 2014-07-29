@@ -1,0 +1,29 @@
+{
+  "name": "nearlyEqual.js",
+  "version": "1.0.0",
+  "description": "Comparing two floating-point numbers",
+  "main": "nearlyEqual.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^1.21.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hnakamur/nearlyEqual.js"
+  },
+  "keywords": [
+    "numerical"
+  ],
+  "author": "Hiroaki Nakamura <hnakamur@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hnakamur/nearlyEqual.js/issues"
+  },
+  "homepage": "https://github.com/hnakamur/nearlyEqual.js"
+}
